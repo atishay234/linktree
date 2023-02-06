@@ -1,0 +1,28 @@
+.App {
+  /* Again not working */
+  height: 100vh;
+  width: 100vw;
+  /* background-color: rgb(52, 58, 64);
+  color: white; */
+}
+
+.submit-button {
+  color: gray;
+  background-color: rgb(239, 239, 239);
+  border: 3px solid gray;
+  margin-bottom: 10px;
+}
+
+.submit-button:hover,
+.submit-button:focus,
+.submit-button:active {
+  color: black;
+  background-color: white;
+  border: 3px solid black;
+  outline: none;
+  box-sizing: none;
+}
+
+.spinner {
+  margin-left: 45%;
+}

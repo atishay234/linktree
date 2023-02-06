@@ -1,0 +1,14 @@
+.linktree-form {
+  border: 3px solid black;
+  width: 45%;
+  margin: 0 auto;
+  padding-top: 15px;
+  border-radius: 7px;
+  background-color: #fff;
+}
+
+@media screen and (max-width: 640px) {
+  .linktree-form {
+    width: 90%;
+  }
+}

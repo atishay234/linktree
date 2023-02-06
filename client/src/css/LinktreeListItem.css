@@ -1,0 +1,32 @@
+.LinktreeList-text {
+  margin: 0;
+  font-family: "sans";
+  font-weight: 600;
+}
+
+.LinktreeList-url {
+  margin: 5px 0 0;
+  font-size: 0.7em;
+}
+
+.list-item-hyperlink {
+  color: black;
+  word-wrap: break-word;
+  /* height: 40rem; */
+  /* padding: 3rem 0; */
+}
+
+.list-item-hyperlink:hover {
+  text-decoration: none;
+  color: #808080;
+}
+
+.edit-delete-icon {
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.edit-delete-icon:hover {
+  color: #808080;
+}

@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    /* not working stretch*/
+    align-content: space-around;
+    padding-left: 2rem;
+    background-color: #ccc3c3;
+}
+
+.brand-name {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.nav-item-container {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-item {
+    margin-left: 1rem;
+}
